@@ -1,0 +1,11 @@
+.parent{
+    background-color: rgb(252, 250, 248);
+}
+h1{
+    text-align: center ;
+    color: rgb(97, 67, 28);
+}
+img {
+    width: 500px !important;
+    height: 450px !important;
+}
